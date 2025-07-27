@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.IO;
@@ -791,7 +791,7 @@ namespace Log_in_System_pro
         // دالة ValidateDateOfBirth تقوم بالتحقق من صحة تاريخ الميلاد المدخل
         static string ValidateDateOfBirth(string date, int xaxis, int yaxis, int xaxis1, int yaxis1)
         {
-            string title = "Invalid date of birth, Please enter a valid date in the format dd/mm/yyyy, try again. ";
+            string title = "Invalid date of birth, Please enter a valid date in the format mm/dd/yyyy, try again. ";
             while (true)
             {
                 // التحقق من أن التاريخ المدخل يتبع التنسيق الصحيح
