@@ -29,7 +29,7 @@ It provides features for **user registration, login, data viewing, updating, acc
 ## 📸 Screenshots (with design)
 
 ### 1️⃣ Welcome Screen
-![Welcome](Log-inSystem_pro/assets/welcome.png)
+![Welcome](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/welcome.png?raw=true)
 
 ### 2️⃣ Login Menu
 ![Login Menu](Log-inSystem_pro/assets/login-menu.png)
