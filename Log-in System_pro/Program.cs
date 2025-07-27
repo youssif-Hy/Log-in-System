@@ -565,9 +565,9 @@ namespace Log_in_System_pro
             }
             // عرض رسالة نجاح التسجيل
             Console.ForegroundColor = ConsoleColor.Green;
-            WriteSlow("Registration successful! You can now log in.", 20, 0, 12);
-            Console.ResetColor();
+            WriteSlow("Registration successful! You can now log in.", 20, 0, 15);
             Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.SetCursorPosition(0, 17);
             Console.Write("Press any key to return to the login menu...");
             Console.ReadKey();
             DisplayLoginMenu();
