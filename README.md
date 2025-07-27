@@ -29,16 +29,16 @@ It provides features for **user registration, login, data viewing, updating, acc
 ## 📸 Screenshots (with design)
 
 ### 1️⃣ Welcome Screen
-![Welcome](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/welcome.png?raw=true)
+![Welcome](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/welcome.png)
 
 ### 2️⃣ Login Menu
-![Login Menu](Log-inSystem_pro/assets/login-menu.png)
+![Login Menu](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/login-menu.png)
 
 ### 3️⃣ Register Screen
-![Register](Log-inSystem_pro/assets/register.png)
+![Register](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/register.png)
 
 ### 4️⃣ Main Menu (after login)
-![Main Menu](Log-inSystem_pro/assets/main-menu.png)
+![Main Menu](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/main-menu.png)
 
 ---
 
@@ -46,7 +46,7 @@ It provides features for **user registration, login, data viewing, updating, acc
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/username/Log-in-System.git
+   git clone https://github.com/youssif-Hy/Log-in-System.git
    cd Log-in-System
    dotnet run
    ```
