@@ -29,16 +29,16 @@ It provides features for **user registration, login, data viewing, updating, acc
 ## 📸 Screenshots (with design)
 
 ### 1️⃣ Welcome Screen
-![Welcome](assets/welcome.png)
+![Welcome](Log-inSystem_pro/assets/welcome.png)
 
 ### 2️⃣ Login Menu
-![Login Menu](assets/login-menu.png)
+![Login Menu](Log-inSystem_pro/assets/login-menu.png)
 
 ### 3️⃣ Register Screen
-![Register](assets/register.png)
+![Register](Log-inSystem_pro/assets/register.png)
 
 ### 4️⃣ Main Menu (after login)
-![Main Menu](assets/main-menu.png)
+![Main Menu](Log-inSystem_pro/assets/main-menu.png)
 
 ---
 
