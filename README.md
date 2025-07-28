@@ -29,16 +29,16 @@ It provides features for **user registration, login, data viewing, updating, acc
 ## 📸 Screenshots (with design)
 
 ### 1️⃣ Welcome Screen
-![Welcome](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/welcome.png)
+![Welcome](https://raw.githubusercontent.com/youssif-Hy/Log-in-System/master/assets/welcome.png)
 
 ### 2️⃣ Login Menu
 ![Login Menu](https://raw.githubusercontent.com/youssif-Hy/Log-in-System/master/assets/login-menu.png)
 
 ### 3️⃣ Register Screen
-![Register](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/register.png)
+![Register](https://raw.githubusercontent.com/youssif-Hy/Log-in-System/master/assets/register.png)
 
 ### 4️⃣ Main Menu (after login)
-![Main Menu](https://github.com/youssif-Hy/Log-in-System/blob/main/assets/main-menu.png)
+![Main Menu](https://raw.githubusercontent.com/youssif-Hy/Log-in-System/master/assets/main-menu.png)
 
 ---
 
